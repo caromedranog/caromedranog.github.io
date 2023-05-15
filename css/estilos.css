@@ -1,0 +1,138 @@
+#zona-encabezado {
+   background-color: whitesmoke;
+   padding: 10px;
+}
+.titulo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+#body-inicio {
+    background-color: whitesmoke;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#onu {
+    padding: 50px;
+}
+#texto-ods {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#agenda {
+    padding: 50px;
+}
+
+
+
+
+#body-nosotros {
+  background-color: whitesmoke;
+  text-align: justify;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#evergreen {
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#ods-15 {
+    padding: 50px;
+}
+#metas {
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#lograr-cambio {
+    padding: 50px;
+}
+#cambio {
+    border: 2px solid;
+    border-collapse: collapse;
+    text-align: left;
+}
+#cambio th {
+    background-color: darkseagreen;
+}
+#cambio td {
+    background-color: gainsboro;
+}
+#iniciativa-personal {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#datos {
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+
+
+#body-huella {
+    background-color: whitesmoke;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#que-es {
+    padding: 50px;
+}
+#como {
+    padding-left: 50px; 
+    padding-right: 50px;
+}
+#calculadoras {
+    padding: 50px;
+}
+#button {
+    background-color: gray;
+    border: none;
+    border-radius: 12px;
+    text-align: center;
+    display: inline-block;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+#reducir {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+
+#body-ecosia  {
+    background-color: whitesmoke;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#ecosia {
+    padding: 50px;
+}
+#funcion {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#instalar {
+    padding: 50px;
+}
+
+
+
+
+#body-contacto {
+    background-color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#contribuye {
+    padding: 50px;
+}
+
+
+.footer {
+    background-color: seagreen;
+    padding: 20px;
+    text-align: left;
+}
